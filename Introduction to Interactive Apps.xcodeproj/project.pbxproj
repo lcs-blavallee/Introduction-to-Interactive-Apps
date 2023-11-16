@@ -35,6 +35,7 @@
 		1A5EA9812B06564300DCD778 = {
 			isa = PBXGroup;
 			children = (
+				1A5EA98D2B06564300DCD778 /* Introduction_to_Interactive_AppsApp.swift */,
 				1A5EA98C2B06564300DCD778 /* Introduction to Interactive Apps */,
 				1A5EA98B2B06564300DCD778 /* Products */,
 			);
@@ -51,7 +52,6 @@
 		1A5EA98C2B06564300DCD778 /* Introduction to Interactive Apps */ = {
 			isa = PBXGroup;
 			children = (
-				1A5EA98D2B06564300DCD778 /* Introduction_to_Interactive_AppsApp.swift */,
 				1A5EA98F2B06564300DCD778 /* ContentView.swift */,
 				1A5EA9912B06564500DCD778 /* Assets.xcassets */,
 				1A5EA9932B06564500DCD778 /* Preview Content */,
